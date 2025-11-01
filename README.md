@@ -78,13 +78,13 @@ The goal of this project was to:
 
 ### **Dashboard Title:** Insurance Risk & Claim Analysis
 
-**Key Metrics Displayed**
+**Key Metrics Displayed(KPI's)**
 - 🧾 **Total Policies:** 37,542  
 - 💵 **Total Claim Amount:** \$187.8M  
 - 🔁 **Average Claim Frequency:** 0.51  
 - 👨‍🦰 **Male Policies:** 18.7K | 👩 **Female Policies:** 18.8K  
 
-**Visuals Used**
+**Visuals Used in Dashboard**
 1. **KPI Cards:** Total Policies, Total Claim, Avg Claim  
 2. **Donut Charts:** Policies by Car Use, Education, Coverage Zone  
 3. **Bar Charts:** Policies by Age Group, Car Make, Kids Driving  
@@ -99,7 +99,7 @@ The goal of this project was to:
 
 ---
 
-## 💡 Results & Insights
+## 💡 Results & Business Insights
 - **Urban regions** and **private car owners** are more prone to higher claim amounts.  
 - **Middle-aged (36–55)** customers are the most active policyholders.  
 - **Families with kids driving** tend to have fewer claims, implying safer households.  
